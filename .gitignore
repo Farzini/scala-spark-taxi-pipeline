@@ -1,0 +1,20 @@
+# sbt
+target/
+project/target/
+project/project/
+
+# IntelliJ / Metals
+.idea/
+.metals/
+.bloop/
+.vscode/
+
+# OS
+.DS_Store
+
+# Data
+data/
+!data/README.md
+
+# Logs
+logs/
