@@ -40,8 +40,3 @@ spark {
 }
 ```
 
-## Next steps
-- Replace quality checks with Great Expectations or custom rules
-- Write to Delta Lake and demonstrate partition pruning
-- Add GitHub Actions CI for tests
-- Optional tiny REST API to serve KPIs
